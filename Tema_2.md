@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2d979030-cb4b-4d4f-9ef8-802455f0bb03)# Тема 1. Введение в Pythonn
+# Тема 1. Введение в Python
 Отчет по Теме #12 выполнил(а):
 - Швецов Никита Олегович 
 - ИВТ-22-2
