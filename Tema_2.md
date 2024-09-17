@@ -81,7 +81,7 @@ three = input("three:")
 print(one, two, three)
 ```
 # Итог
-![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic5.PNG)
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic 5.PNG)
 # Вывод
 мы присвоили значения трем переменным благодаря функции инпут
 # Лаб6
