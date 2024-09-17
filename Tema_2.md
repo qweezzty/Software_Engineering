@@ -40,6 +40,7 @@ print(1.23+12.3)
 print(23124123412+12321313.1231+123+1231231.2)
 ```
 # Ответ
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic2.PNG)
 # Вывод
 С помощью команды принт мы посчитали и вывели на экран решения примеров с целыми и дробными числами
 # Лаб 3 
@@ -53,6 +54,7 @@ two = "World"
 print(one,two)
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic3.PNG)
 # Вывод
 С помощью команды принт мы вывели три строки обычную, Ф строку и сложение 2 строк в одну
 
@@ -67,6 +69,7 @@ three = "None"
 print(str(three))
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic4.PNG)
 # Вывод
 Мы вывели три строки с помощью переменной бул, флот и стринг.
 # lab 5
@@ -78,6 +81,7 @@ three = input("three:")
 print(one, two, three)
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic5.PNG)
 # Вывод
 мы присвоили значения трем переменным благодаря функции инпут
 # Лаб6
@@ -91,6 +95,7 @@ print("Целочисленное деление: ",a//b)
 print("Нахождение остатка: ",a%b)
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic6.PNG)
 # Вывод
 Мы провели разные математическими операции над двумя переменными 
 # Лаб 7
@@ -99,8 +104,9 @@ print("Нахождение остатка: ",a%b)
 line = "Hello World"
 print(line*6)
 ```
-#Итог
-#Вывод
+# Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic7.PNG)
+# Вывод
 Мы создали строковыую переменную и умножили ее на 6
 # Лаб 8 
 # Посчитайте сколько раз символ ‘o’ встречается в строке ‘Hello World"
@@ -109,6 +115,7 @@ sentence = "Hello World"
 print(sentence.count("o"))
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic8.PNG)
 # Вывод
 Благодаря коунт мы смогли посчитать количество букв о
 # Лаб 9
@@ -117,6 +124,7 @@ print(sentence.count("o"))
 print("Hello \n World")
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic9.PNG)
 # Вывод
 Разделили предложения с помощью одной строчки кода
 # Лаб 10
@@ -127,6 +135,7 @@ print(iq[1])
 print(iq[:5])
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic10.PNG)
 # Вывод
 Вывели 2 символ и вывели слово Хеллоу
 # Сам_Раб1 
@@ -136,6 +145,7 @@ iq = ""
 print(bool(iq))
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic11.PNG)
 # Вывод
 Вывод фолсе без использования слова фолсе в коде, код в 2 строчки 
 # Сам_раб2
@@ -145,6 +155,7 @@ q,w,e = 1,2,3
 print(q,w,e)
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic12.PNG)
 # Вывод
 Присвоили 3 значения к 3 переменным используя 2 строчки кода 
 # Сам_Раб3
@@ -154,6 +165,7 @@ q = (int(input()))
 print(q)
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic13.PNG)
 # Вывод
 Ввод только чисел , буквы выводят ошибку
 # Сам_Раб4
@@ -163,6 +175,7 @@ line = "Poppo"
 print(line*10)
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic14.PNG)
 # Вывод 
 Создал 1 строковую переменную из 5 символов, вывел больше 16 символов, 2 строки занял код 
 # Сам_Раб5
@@ -171,7 +184,8 @@ print(line*10)
 day, month, year = 17, "сентября", 2024
 print(f"Сегодня {day} {month} {year}. ", end="Всего хорошего!");
 ```
-# Итог 
+# Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic15.PNG)
 # Вывод
 Вывел три переменные, вывод в конце текста, код в 2 строчки
 # Сам_Раб 6
@@ -181,6 +195,7 @@ str = 'Hello World'
 print (str[:-5], 'my', str[5:])
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic16.PNG)
 # Вывод
 Вставили май между слов, все идет в одной строке, код на 2 строчки
 # Сам_Раб7
@@ -191,6 +206,7 @@ str = "Hello World"
 print(len(str))
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic17.PNG)
 # Вывод
 Благодаря len мы получили кол-во символов длины выражения
 # Сам_Раб8
@@ -200,6 +216,7 @@ str = "HELLO WORLD"
 print(str.lower())
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic18.PNG)
 # Вывод 
 С помощью lower мы перевели в нижний регистр
 # Сам_Раб9
@@ -213,6 +230,7 @@ print(str.lower())
       print("Не четное")
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic19.PNG)
 # Вывод
 программа, которая выполняет поиск остатка при делении на 2, при остатке = нулю выводит четное, иначе нечетное 
 # Сам_Раб10
@@ -222,6 +240,7 @@ str = "hello world"
 print(str.upper())
 ```
 # Итог
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic20.PNG)
 # Вывод
 С помощью upper мы перевели в верхний регистр
 
