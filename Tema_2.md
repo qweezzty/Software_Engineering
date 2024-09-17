@@ -29,7 +29,7 @@ print(1.23)
 print(123)
 ```
 # Ответ
-![Меню](https://github.com/qweezzty/Software_Engineering/main/phtot/pic1.PNG)
+![Меню](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/pic1.PNG)
 # Вывод
 С помощью команды print вывели 3 циферных значения
 # Лаб 2 
