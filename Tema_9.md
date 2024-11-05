@@ -83,7 +83,7 @@ print(encapsulation.get_value())
 del encapsulation
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D0%BB%D0%B0%D0%B19.3.PNG)
 
 ## Выводы
 Код демонстрирует принцип инкапсуляции в Python, где доступ к приватному полю осуществляется только через специальные методы set_value() и get_value().
