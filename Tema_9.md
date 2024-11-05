@@ -137,7 +137,7 @@ def greet_in_languages():
 greet_in_languages()
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D0%BB%D0%B0%D0%B19.5.PNG)
 
 ## Выводы
 Код демонстрирует пример использования статических методов и переменных в Python для реализации приветствий на разных языках.
