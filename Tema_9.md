@@ -109,7 +109,7 @@ print(f"{cat.name} - {cat.species}")
 print(f"{dog.name} - {dog.species}")
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D0%BB%D0%B0%D0%B19.4.PNG)
 
 ## Выводы
 - Создан базовый класс Mammal, который имеет атрибут species.
