@@ -58,7 +58,7 @@ ice_cream1 = IceCream("шоколадом")
 ice_cream1.display()
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D0%BB%D0%B0%D0%B19.2.PNG)
 
 ## Выводы
 Код демонстрирует простую реализацию класса IceCream, который может иметь дополнительные ингредиенты (топпинги), и предоставляет способ отображать информацию о мороженом.
