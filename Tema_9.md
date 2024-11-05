@@ -173,7 +173,7 @@ greet_in_languages()
 Gardener.knowledge_base()
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D1%81%D0%B0%D0%BC%D1%80%D0%B0%D0%B19.1.PNG)
 
 ## Выводы
 Из класса Gardener выводится справка по садоводству.
@@ -209,7 +209,7 @@ bush = TomatoBush(5)
 gardener = Gardener("Дмитрий", bush)
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D1%81%D0%B0%D0%BC%D1%80%D0%B0%D0%B19.2.PNG)
 
 ## Выводы
 Создаем куст с 5 помидорами и садовника Дмитрия.
@@ -244,7 +244,7 @@ gardener = Gardener("Дмитрий", bush)
 gardener.work()
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D1%81%D0%B0%D0%BC%D1%80%D0%B0%D0%B19.3.PNG)
 
 ## Выводы
 Вызываем функцию def work(self).
@@ -282,7 +282,7 @@ for _ in range(3):
 gardener.harvest()
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D1%81%D0%B0%D0%BC%D1%80%D0%B0%D0%B19.4.PNG)
 
 ## Выводы
 Пробуем собрать урожай, вызывая функцию def harvest(self). Если помидоры еще не созрели, запустится цикл, который вызывает функцию gardener.work(). После снова пробуем собрать урожай.
@@ -319,7 +319,7 @@ for tomato in bush.tomatoes:
 gardener.harvest()
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D1%81%D0%B0%D0%BC%D1%80%D0%B0%D0%B19.5.PNG)
 
 ## Выводы
 Запускаем функцию tomato.grow(), которая переводит помидоры на соедующую стадию роста и после gardener.harvest(), чтобы собрать урожай.
@@ -438,7 +438,7 @@ gardener.harvest()  # Вывод: Дмитрий собрал урожай!
 
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D1%81%D0%B0%D0%BC%D1%80%D0%B0%D0%B19.6.PNG)
 
 ## Выводы
 Класс Tomato:
