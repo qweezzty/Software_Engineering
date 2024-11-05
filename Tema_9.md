@@ -35,7 +35,7 @@ a = input("Введите имя: ")
 print(person.guess_name(a))
 ```
 ### Результат.
-![image]()
+![image](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/%D0%BB%D0%B0%D0%B19.1.png)
 
 ## Выводы
 - __init__(self, name): конструктор, который принимает имя и сохраняет его в атрибуте name.
