@@ -26,7 +26,7 @@ for item in numbers:
 ```
 ### Результат.
 
-![]()
+![](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/L11_1.png)
 
 ## Лабораторная работа №2
 ### Класс итератор с гибкой настройкой и удобными применением
@@ -51,7 +51,7 @@ for i in counter:
 ```
 ### Результат.
 
-![]()
+![](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/L11_2.png)
 
 ## Лабораторная работа №3
 ### Генератор списка
@@ -69,7 +69,7 @@ for i in a:
 ```
 ### Результат.
 
-![]()
+![](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/L11_3.png)
 
 ## Лабораторная работа №4
 ### Выражения генераторы
@@ -86,7 +86,7 @@ for i in b:
 ```
 ### Результат.
 
-![]()
+![](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/L11_4.png)
 
 
 ## Лабораторная работа №5
@@ -106,7 +106,7 @@ if __name__ == '__main__':
 ```
 ### Результат.
 
-![]()
+![](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/L11_5.png)
 
 
 ## Самостоятельная работа 1
@@ -127,7 +127,7 @@ print(f"200-е число Фибоначчи: {fibonacci_numbers[-1]}")
 
 ### Результат.
 
-![]()
+![](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/S11_1.png)
 
 ## Вывод
 
@@ -149,8 +149,8 @@ with open('fib.txt', 'w') as f:
 
 ### Результат.
 
-![]()
-![]()
+![](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/S11_2(1).png)
+![](https://github.com/qweezzty/Software_Engineering/blob/main/phtot/S11_2(2).png)
 ## Вывод
 
 В этом упражнении я применил метод записи данных в текстовый файл с использованием функции **writelines()**. Также я освежил в памяти, что в Python можно использовать символ `_` для записи переменной, и потренировалась в применении инструкции yield.
